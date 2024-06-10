@@ -9,6 +9,4 @@ ln -s ~/gitclone/dotfiles/dunst ~/.config/dunst
 ln -s ~/gitclone/dotfiles/kitty ~/.config/kitty
 ln -s ~/gitclone/dotfiles/rofi ~/.config/rofi
 ln -s ~/gitclone/dotfiles/swaylock ~/.config/swaylock
-
-# Run the secrets setup script
-~/gitclone/dotfiles/setup-secrets.sh
+ln -s ~/gitclone/dotfiles/.zshrc ~/.zshrc
